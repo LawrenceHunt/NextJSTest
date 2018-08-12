@@ -1,0 +1,20 @@
+{
+  "name": "nexttest",
+  "version": "1.0.0",
+  "description": "testing next framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "isomorphic-unfetch": "^2.1.1",
+    "next": "^6.0.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
